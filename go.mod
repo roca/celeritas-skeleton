@@ -1,4 +1,4 @@
-module myapp
+module celeritas-skeleton
 
 go 1.21
 
